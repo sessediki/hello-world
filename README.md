@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+Test repository to be sure that every thing works fine!
